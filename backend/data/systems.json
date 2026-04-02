@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "System A",
+        "currentVersion": "1.0",
+        "latestVersion": "2.0",
+        "lastUpdatedDays": 45
+    },
+    {
+        "id": 2,
+        "name": "System B",
+        "currentVersion": "2.0",
+        "latestVersion": "2.0",
+        "lastUpdatedDays": 5
+    }
+]
